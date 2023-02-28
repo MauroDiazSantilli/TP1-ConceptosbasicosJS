@@ -1,5 +1,5 @@
-var numero1 = parseInt(prompt("Ingrese un número:"));
-var numero2 = parseInt(prompt("Ingrese otro numero:"));
+let numero1 = parseInt(prompt("Ingrese un número:"));
+let numero2 = parseInt(prompt("Ingrese otro numero:"));
 
 if (numero1 > numero2) {
   document.write("El numero mayor es: " + numero1);
