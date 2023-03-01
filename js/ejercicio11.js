@@ -18,5 +18,5 @@ if (numero % 7 == 0){
 
 }
 else{
-    document.write("El numero no es divisible ni por 2, ni 3, ni 5 ni 7");
+    document.write("El numero no es divisible ni por 2, ni 3, ni 5 ni 7. ");
 }
